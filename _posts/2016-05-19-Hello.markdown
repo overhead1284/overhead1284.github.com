@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Hello"
-date:   2016-05-19 15:15:00 +0900
-categories: jekyll update
----
-안녕하세요.
-저는 컴퓨터공학부 15학번 김민기라고합니다.
-안녕히계세요. ㅂㅂ
